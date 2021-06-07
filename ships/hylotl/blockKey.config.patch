@@ -1,0 +1,22 @@
+[
+	{
+		"op" : "remove",
+		"path" : "/blockKey/3/objectParameters/unbreakable"
+	},
+	{
+		"op" : "remove",
+		"path" : "/blockKey/5/objectParameters/unbreakable"
+	},
+	{
+		"op" : "remove",
+		"path" : "/blockKey/7/objectParameters/unbreakable"
+	},
+	{
+		"op" : "remove",
+		"path" : "/blockKey/14/objectParameters/unbreakable"
+	},
+	{
+		"op" : "remove",
+		"path" : "/blockKey/20/objectParameters/unbreakable"
+	}
+]

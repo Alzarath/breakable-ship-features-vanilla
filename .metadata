@@ -1,0 +1,8 @@
+{
+  "version" : "1.0",
+  "author" : "Alzarath",
+  "tags" : "Weapons|User Interface",
+  "description" : "Simple mod that allows the breaking and replacement of some ship features, including:\n\n[list]\n[*]Captain's Chair\n[*]S.A.I.L\n[*]Shiplocker\n[*]Teleporter\n[/list]\n\nOnly functions for the vanilla races. A version for modded races may become available in the future.\n\n[h1]Compatibility[/h1]\nMod compatibility is untested, but it should work with anything that doesn't modify the vanilla ships.\n\n[h1]Notes[/h1]\nThis mod is only tested on new characters. Existing characters will probably remain unaffected. Workarounds will be looked into.\nThis mod does not add any functionality or items to the game, it only allows the existing objects to be broken.",
+  "name" : "Breakable Ship Features (Vanilla)",
+  "friendlyName" : "Breakable Ship Features (Vanilla)"
+}
